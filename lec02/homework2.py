@@ -24,4 +24,3 @@ def arithmetic(x, y):
     elif isinstance(x, float) and isinstance(y, float):
         return x * y
 
-    return 0
